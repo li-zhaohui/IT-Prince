@@ -10,10 +10,12 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 
 
 ## Experienced fields in blockchain
-
-- AMM, Liquidity Pool & Swapping
-- Yield Farming
-- Staking
+1. Decentralized Finance
+  - AMM, Liquidity Pool & Swapping
+  - Yield Farming
+  - Staking
+2. Decentralized App
+3. Blockchain Games
 
 ## Experienced blockchain network
 - Ethereum
