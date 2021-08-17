@@ -11,6 +11,26 @@ I am a **Perfect** blockchain developer and have a rich experience with 5+ years
 
 ## Experienced fields in blockchain
 
+- AMM, Liquidity Pool & Swapping
+- Yield Farming
+- Staking
+
+## Experienced blockchain network
+- Ethereum
+- Binance
+- Solana
+
+## Experienced sites
+
+1. [RAY Coin](https://raydium.io/)
+1. [BITCOIN Addition](https://btcadd.io/)
+1. [SBERCOIN](https://www.sbrcoin.com/)
+1. [Coin Explorer](https://www.coinexplorer.net/masternodes)
+1. [Coin Explorer APR](https://www.coinexplorer.net/index.php/apr)
+1. [Daiki Coin](https://explore.daikicoin.org/)
+1. [Titanium](http://www.titanium-blocks.org/)
+
+## Good tutorials for beginners
 - [Smart Contract](#how-to-collaborate)
 - [Crypto Coins based on ERC20](#basics)
 - [Bitcoin](#introductory-courses)
@@ -23,13 +43,3 @@ I am a **Perfect** blockchain developer and have a rich experience with 5+ years
 - [Affiliate/MLM](#tutorials)
 - [Cold Staking](#tutorials)
 - [White Paper creation](#tutorials)
-
-## Experienced sites
-
-1. [APR Coin](https://www.apr-coin.com/)
-1. [BITCOIN Addition](https://btcadd.io/)
-1. [SBERCOIN](https://www.sbrcoin.com/)
-1. [Coin Explorer](https://www.coinexplorer.net/masternodes)
-1. [Coin Explorer APR](https://www.coinexplorer.net/index.php/apr)
-1. [Daiki Coin](https://explore.daikicoin.org/)
-1. [Titanium](http://www.titanium-blocks.org/)
