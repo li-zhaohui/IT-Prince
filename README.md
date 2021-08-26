@@ -15,7 +15,7 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
   - Yield Farming
   - Staking
 2. Decentralized App
-3. Blockchain Games
+3. Blockchain Games & NFT
 
 ## Experienced blockchain network
 - Ethereum
