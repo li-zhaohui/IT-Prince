@@ -18,30 +18,38 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 3. Blockchain Games & NFT
 
 ## Experienced blockchain network
+- Solana
 - Ethereum
 - Binance
-- Solana
 
-## Experienced sites
 
+## Experienced cryptocurrencies
+### Solana blockchain
+1. [CRP Coin](https://cropper.finance/)
 1. [RAY Coin](https://raydium.io/)
+1. [SRM Coin](https://dex.projectserum.com/)
+1. [SOLAPE Coin](https://solapeswap.io/)
+1. [Bonfida Coin](https://bonfida.org/)
+### Binance Smart Chain
 1. [BITCOIN Addition](https://btcadd.io/)
 1. [SBERCOIN](https://www.sbrcoin.com/)
-1. [Coin Explorer](https://www.coinexplorer.net/masternodes)
-1. [Coin Explorer APR](https://www.coinexplorer.net/index.php/apr)
 1. [Daiki Coin](https://explore.daikicoin.org/)
 1. [Titanium](http://www.titanium-blocks.org/)
 
 ## Good tutorials for beginners
-- [Smart Contract](#how-to-collaborate)
-- [Crypto Coins based on ERC20](#basics)
-- [Bitcoin](#introductory-courses)
-- [Decentralized Trading Exchanges](#tutorials)
-- [Mining Pools](#tutorials)
-- [Block Explorers](#tutorials)
-- [ICO Token Sale](#tutorials)
-- [Crowd-Sale](#tutorials)
-- [Lending System](#tutorials)
-- [Affiliate/MLM](#tutorials)
-- [Cold Staking](#tutorials)
-- [White Paper creation](#tutorials)
+- [Learning Path](https://github.com/protofire/blockchain-learning-path)
+- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
+## Tutorials for Solana blockchain devleopers
+- [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
+- [Solana Program Library](https://github.com/solana-labs/solana-program-library)
+- [Anchor Framework](https://github.com/project-serum/anchor)
+- [Raydium UI](https://github.com/raydium-io/raydium-ui)
+- [Raydium Contract Instructions](https://github.com/raydium-io/raydium-contract-instructions)
+- [Simple swap UI](https://github.com/solana-labs/oyster-swap)
+- [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet)
+## Tutorials for Ethereum blockchain developers
+
+- [Remix(Ethererum IDE)](http://remix.ethereum.org/)
+- [CryptoZombies](https://cryptozombies.io/)
+
+
