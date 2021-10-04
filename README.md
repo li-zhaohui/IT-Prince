@@ -1,4 +1,4 @@
-# Perfect Blockchain developer
+# Top talents in blockchain
 
 I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 
@@ -21,20 +21,27 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 - Solana
 - Ethereum
 - Binance
-
+- Tron
+- Cross-Chain Network
 
 ## Experienced cryptocurrencies
 ### Solana blockchain
-1. [CRP Coin](https://cropper.finance/)
-1. [RAY Coin](https://raydium.io/)
-1. [SRM Coin](https://dex.projectserum.com/)
-1. [SOLAPE Coin](https://solapeswap.io/)
-1. [Bonfida Coin](https://bonfida.org/)
+1. [Cropper Finance(CRP)](https://cropper.finance/)
+1. [Raydium(RAY)](https://raydium.io/)
+1. [Raydium DEX(SRM)](https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA)
+1. [Step Finance](https://app.step.finance/)
+### Cross-Chain Network
+1. [Saber](https://saber.so/)
+2. [Wormhole](https://wormholebridge.com/#/)
+### Ethereum blockchain
+
+1. [Cropper Finance(CRP)](https://cropper.finance/)
+1. [Raydium(RAY)](https://raydium.io/)
+1. [Raydium DEX(SRM)](https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA)
+
 ### Binance Smart Chain
 1. [BITCOIN Addition](https://btcadd.io/)
 1. [SBERCOIN](https://www.sbrcoin.com/)
-1. [Daiki Coin](https://explore.daikicoin.org/)
-1. [Titanium](http://www.titanium-blocks.org/)
 
 ## Good tutorials for beginners
 - [Learning Path](https://github.com/protofire/blockchain-learning-path)
@@ -48,7 +55,6 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 - [Simple swap UI](https://github.com/solana-labs/oyster-swap)
 - [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet)
 ## Tutorials for Ethereum blockchain developers
-
 - [Remix(Ethererum IDE)](http://remix.ethereum.org/)
 - [CryptoZombies](https://cryptozombies.io/)
 
