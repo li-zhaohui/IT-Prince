@@ -7,7 +7,26 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 [![Solidity Forum](https://img.shields.io/badge/Solidity_Forum%20-discuss-brightgreen?style=plastic&logo=discourse)](https://forum.soliditylang.org/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/solidity_lang?style=plastic&logo=twitter)](https://twitter.com/solidity_lang)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/000335908?domain=https%3A%2F%2Ffosstodon.org%2F&logo=mastodon&style=plastic)](https://fosstodon.org/@solidity)
-
+<center>
+<img src = 'https://github.com/IT-Prince/IT-Prince/blob/main/assets/banner.jpeg'>
+</center>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
 ## Experienced fields in blockchain
 1. Decentralized Finance
@@ -26,7 +45,7 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 
 ## Experienced cryptocurrencies
 ### Solana blockchain
-1. [Cropper Finance(CRP)](https://cropper.finance/)
+1. [Cropper Finance(CRP)](https://cropper.finance)
 1. [Raydium(RAY)](https://raydium.io/)
 1. [Raydium DEX(SRM)](https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA)
 1. [Step Finance](https://app.step.finance/)
@@ -35,14 +54,15 @@ I am a **Perfect** blockchain developer and have a rich experience with 3+ years
 2. [Wormhole](https://wormholebridge.com/#/)
 ### Ethereum blockchain
 
-1. [Cropper Finance(CRP)](https://cropper.finance/)
-1. [Raydium(RAY)](https://raydium.io/)
-1. [Raydium DEX(SRM)](https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA)
+1. [Monox Finance](https://monox.finance/)
+1. [MUNCH Token](https://munchproject.io/)
+1. [Uniswap](https://uniswap.org/)
+
 
 ### Binance Smart Chain
 1. [BITCOIN Addition](https://btcadd.io/)
 1. [SBERCOIN](https://www.sbrcoin.com/)
-
+1. [PancakeSwap](https://pancakeswap.finance/)
 ## Good tutorials for beginners
 - [Learning Path](https://github.com/protofire/blockchain-learning-path)
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
