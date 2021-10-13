@@ -3,7 +3,9 @@
 <table>
 <tr><td>
 <p align="center">  
+<a href = "https://github.com/IT-Prince?tab=repositories">
 <img src = 'https://github.com/IT-Prince/IT-Prince/blob/main/assets/banner.jpeg'>
+</a>
 </p>
 </td></tr>
 <tr><td valign="top" width="100%">
