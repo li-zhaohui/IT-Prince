@@ -33,7 +33,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
 
-<script src="https://gist.github.com/tuzz/3331384.js"></script>
+<p align="center">
 <table cellspacing="0" cellpadding="0">
   <tr>
     <th>Network</th> 
@@ -94,6 +94,7 @@
   <tr>
   </tr>
 <table>
+</p>
 
 ## Good tutorials for beginners
 - [Learning Path](https://github.com/protofire/blockchain-learning-path)
