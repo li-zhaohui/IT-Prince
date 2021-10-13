@@ -100,8 +100,6 @@
       </font>
     </td>
   </tr>
-  <tr>
-  </tr>
 <table>
 
 ## Good tutorials for beginners
