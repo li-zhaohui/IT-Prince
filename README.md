@@ -67,9 +67,9 @@
     </td> 
     <td>
       <font size = '4'>
-      <li><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" height="16" width="16" alt="Defi"> Defi</li>
-      <ul>AMM & Swaping <br>
-      Staking & Farming</ul>
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" height="16" width="16" alt="Defi"> Defi<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;AMM & Swaping <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;Staking & Farming<br>
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" height="16" width="16" alt="DApp"> DApp <br>
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png" height="16" width="16" alt="NFT"> NFT
       </font>
