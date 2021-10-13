@@ -13,7 +13,7 @@
 </div>
 </td></tr>
 <tr><td valign="top" width="100%">
-<div align="center">  
+<div align="center" style = "border: none;">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
@@ -63,6 +63,7 @@
     </td>
     <td>
       <li>
+        <span>🍎</span>
         <a href = 'https://cropper.finance'>Cropper Finance</a>
         <span>🍎</span>
         <a href = 'https://raydium.io/'>Raydium</a>
@@ -72,11 +73,13 @@
         <a href = 'https://app.step.finance/'>Step Finance</a>
       </li>
       <li>
+        <span>🍎</span>
         <a href = 'https://saber.so/'>Saber</a>
         <span>🍎</span>
         <a href = 'https://wormholebridge.com/#/'>Wormhole</a>
       </li>
       <li>
+        <span>🍎</span>
         <a href = 'https://monox.finance/'>Monox Finance</a>
         <span>🍎</span>
         <a href = 'https://munchproject.io'>MUNCH Token</a>
@@ -84,6 +87,7 @@
         <a href = 'https://uniswap.org'>Uniswap</a>
       </li>
       <li>
+        <span>🍎</span>
         <a href = 'https://btcadd.io/'>Bitcoin</a>
         <span>🍎</span>
         <a href = 'https://pancakeswap.finance/'>Pancake Swap</a>
