@@ -35,7 +35,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
 
-<table align = 'center' height = "250" border-size = '0px'>
+<table align = 'center' height = "250" width='100%' border-size = '0px'>
   <tr>
     <th>Network</th> 
     <th>Experienced fields</th>
