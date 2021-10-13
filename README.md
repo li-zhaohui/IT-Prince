@@ -2,9 +2,9 @@
 
 <table>
 <tr><td>
-<div align="center">  
+<p align="center">  
 <img src = 'https://github.com/IT-Prince/IT-Prince/blob/main/assets/banner.jpeg'>
-</div>
+</p>
 </td></tr>
 <tr><td valign="top" width="100%">
 <p align="center">  
