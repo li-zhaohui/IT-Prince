@@ -39,7 +39,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
 
-<table>
+<table border = '0px'>
   <tr>
     <th>Network</th> 
     <th>Experienced fields</th>
@@ -119,7 +119,7 @@
     <a href="https://join.skype.com/invite/UnRW1QAcIeCS" target="_blank">
     <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
     </a>
-    <a href="https://t.me/devdreamsolution" target="_blank">
+    <a href="https://t.me/zhaohui" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
     </a>
 </div>
