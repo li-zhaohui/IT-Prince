@@ -33,7 +33,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
 
-<table cellspacing="0" cellpadding="0" style = "border: none;">
+<table cellspacing="0" cellpadding="0" style = "border: none;background-color:black;">
   <tr>
     <th>Network</th> 
     <th>Experienced fields</th>
