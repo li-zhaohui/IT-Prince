@@ -34,7 +34,6 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
-
 <table align = 'center' height = "250" width='100%' border-size = '0px'>
   <tr>
     <th>Network</th> 
@@ -43,52 +42,62 @@
   </tr>
   <tr>
     <td>
-      <li><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="SOL">Solana</li>
-      <li>Ethereum</li>
-      <li>BSC</li>
-      <li>Tron</li>
-      <li>Cardano</li>
-      <li>Cross-Chain</li>
+      <font size = '4'>
+        <a href = 'https://coinmarketcap.com/currencies/solana/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="SOL"> 
+          Solana
+        </a><br>
+        <a href = 'https://coinmarketcap.com/currencies/ethereum/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" height="16" width="16" alt="ETH"> 
+          Ethereum
+        </a><br>
+        <a href = 'https://coinmarketcap.com/currencies/bitcoin/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" height="16" width="16" alt="BTC"> 
+          Binance Smart Chain
+        </a><br>
+        <a href = 'https://coinmarketcap.com/currencies/tron/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" height="16" width="16" alt="TRON"> 
+          Tron
+        </a><br>
+        <a href = 'https://coinmarketcap.com/currencies/cardano/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" height="16" width="16" alt="Cardano"> 
+          Cardano
+        </a><br>
+      </font>
     </td> 
     <td>
-      <li>DeFi</li>
+      <font size = '4'>
+      <li><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" height="16" width="16" alt="Defi"> Defi</li>
       <ul>AMM & Swaping</ul>
       <ul>Staking & Farming</ul>
-      <li>DApp</li>
-      <li>NFT</li>
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" height="16" width="16" alt="DApp"> DApp <br>
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png" height="16" width="16" alt="NFT"> NFT
+      </font>
     </td>
     <td>
+      <font size = '4'>
       <li>
-        <span>🍎</span>
-        <a href = 'https://cropper.finance'>Cropper Finance</a>
-        <a href = 'https://raydium.io/'><img src='https://raydium.io/favicon.ico'/>Raydium</a>
-        <span>🍎</span>
-        <a href = 'https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA'>Serum</a>
-        <span>🍎</span>
-        <a href = 'https://app.step.finance/'>Step Finance</a>
+        <a href = 'https://cropper.finance'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" height="16" width="16" alt="cropperfinance"> Cropper Finance</a>
+        <a href = 'https://raydium.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" height="16" width="16" alt="raydium"> Raydium</a>
+        <a href = 'https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" height="16" width="16" alt="serum"> Serum</a>
+        <a href = 'https://app.step.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" height="16" width="16" alt="step-finance"> Step Finance</a>
       </li>
       <li>
-        <span>🍎</span>
-        <a href = 'https://saber.so/'>Saber</a>
-        <span>🍎</span>
-        <a href = 'https://wormholebridge.com/#/'>Wormhole</a>
+        <a href = 'https://saber.so/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" height="16" width="16" alt="saber">Saber</a>
+        <a href = 'https://wormholebridge.com/#/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7633.png" height="16" width="16" alt="saber"> WormholeBridge</a>
       </li>
       <li>
-        <span>🍎</span>
-        <a href = 'https://monox.finance/'>Monox Finance</a>
-        <span>🍎</span>
-        <a href = 'https://munchproject.io'>MUNCH Token</a>
-        <span>🍎</span>
-        <a href = 'https://uniswap.org'>Uniswap</a>
+        <a href = 'https://monox.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/213.png" height="16" width="16" alt="monacoin">Monox Finance</a>
+        <a href = 'https://munchproject.io'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9272.png" height="16" width="16" alt="munch-token"> Munch Token</a>
+        <a href = 'https://uniswap.org'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png" height="16" width="16" alt="uniswap"> Uniswap</a>
       </li>
       <li>
-        <span>🍎</span>
-        <a href = 'https://btcadd.io/'>Bitcoin</a>
-        <span>🍎</span>
-        <a href = 'https://pancakeswap.finance/'>Pancake Swap</a>
-        <span>🍎</span>
-        <a href = 'https://www.sbrcoin.com/'>SBERCOIN</a>
+        <a href = 'https://btcadd.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" height="16" width="16" alt="binance-coin"> Binance Coin</a>
+        <a href = 'https://pancakeswap.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png" height="16" width="16" alt="pancakeswap"> Pancake Swap</a>
+        <a href = 'https://www.sbrcoin.com/'><img src="https://www.sbrcoin.com/images/logo__image.png" height="16" width="16" alt="munch-token"> SBER COIN</a>
       </li>
+      </font>
     </td>
   </tr>
   <tr>
