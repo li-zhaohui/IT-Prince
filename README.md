@@ -32,12 +32,8 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
-<style>
-  table{
-    border: none;
-    background-color:black;
-  }
-</style>
+
+<script src="https://gist.github.com/tuzz/3331384.js"></script>
 <table cellspacing="0" cellpadding="0">
   <tr>
     <th>Network</th> 
