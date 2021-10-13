@@ -7,7 +7,7 @@
 </div>
 </td></tr>
 <tr><td valign="top" width="100%">
-<div align="center" style = "border: none;">  
+<p align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
@@ -26,14 +26,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
+</p>
 </td></tr></table>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
 </p>
 
-<p align="center">
 <table cellspacing="0" cellpadding="0">
   <tr>
     <th>Network</th> 
@@ -94,7 +93,6 @@
   <tr>
   </tr>
 <table>
-</p>
 
 ## Good tutorials for beginners
 - [Learning Path](https://github.com/protofire/blockchain-learning-path)
