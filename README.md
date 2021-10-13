@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>
-      <li>Solana</li>
+      <li><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="SOL">Solana</li>
       <li>Ethereum</li>
       <li>BSC</li>
       <li>Tron</li>
@@ -61,7 +61,6 @@
       <li>
         <span>🍎</span>
         <a href = 'https://cropper.finance'>Cropper Finance</a>
-        <span>🍎</span>
         <a href = 'https://raydium.io/'><img src='https://raydium.io/favicon.ico'/>Raydium</a>
         <span>🍎</span>
         <a href = 'https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA'>Serum</a>
