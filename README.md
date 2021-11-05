@@ -57,7 +57,7 @@
   <tr>
     <th>Network</th> 
     <th>Experienced fields</th>
-    <th>Example</th>
+    <th>Solana DeFis</th>
   </tr>
   <tr>
     <td>
@@ -78,15 +78,11 @@
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" height="16" width="16" alt="TRON"> 
           Tron
         </a><br>
-        <a href = 'https://coinmarketcap.com/currencies/cardano/'>
-          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" height="16" width="16" alt="Cardano"> 
-          Cardano
-        </a><br>
       </font>
     </td> 
     <td>
       <font size = '4'>
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" height="16" width="16" alt="Defi"> Defi<br>
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" height="16" width="16" alt="Defi"> Defi, Dex<br>
       &nbsp;&nbsp;&nbsp;&nbsp;AMM & Swaping <br>
       &nbsp;&nbsp;&nbsp;&nbsp;Staking & Farming<br>
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" height="16" width="16" alt="DApp"> DApp <br>
@@ -100,42 +96,84 @@
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" height="16" width="16" alt="cropperfinance"> Cropper Finance</a>
         <a href = 'https://raydium.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" height="16" width="16" alt="raydium"> Raydium</a>
         <a href = 'https://dex.raydium.io/#/market/ByRys5tuUWDgL73G8JBAEfkdFf8JWBzPBDHsBVQ5vbQA'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" height="16" width="16" alt="serum"> Serum</a>
-        <a href = 'https://app.step.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" height="16" width="16" alt="step-finance"> Step Finance</a>
       </li>
       <li>
         <a href = 'https://saber.so/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" height="16" width="16" alt="saber">Saber</a>
-        <a href = 'https://wormholebridge.com/#/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7633.png" height="16" width="16" alt="Wormhole Bridge"> WormholeBridge</a>
         <a href = 'https://mercurial.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" height="16" width="16" alt="Mecurial Finance"> Mecurial Finance</a>
+        <a href = 'https://www.orca.so/pools/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png" height="16" width="16" alt="Orca"> Orca</a>
       </li>
       <li>
-        <a href = 'https://monox.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/213.png" height="16" width="16" alt="monacoin">Monox Finance</a>
-        <a href = 'https://munchproject.io'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9272.png" height="16" width="16" alt="munch-token"> Munch Token</a>
-        <a href = 'https://uniswap.org'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png" height="16" width="16" alt="uniswap"> Uniswap</a>
+        <a href = 'https://allbridge.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/12212.png" height="16" width="16" alt="AllBridge"> AllBridge</a>
+        <a href = 'https://wormholebridge.com/#/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7633.png" height="16" width="16" alt="Wormhole Bridge"> Wormhole</a>
       </li>
       <li>
-        <a href = 'https://btcadd.io/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" height="16" width="16" alt="binance-coin"> Binance Coin</a>
-        <a href = 'https://pancakeswap.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png" height="16" width="16" alt="pancakeswap"> Pancake Swap</a>
-        <a href = 'https://www.sbrcoin.com/'><img src="https://www.sbrcoin.com/images/logo__image.png" height="16" width="16" alt="munch-token"> SBER COIN</a>
+        <a href = 'https://app.step.finance/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" height="16" width="16" alt="step-finance"> Step Finance</a>
+        <a href = 'https://tulip.garden/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="tulip-finance"> Tulip</a>
+        <a href = 'https://app.sunny.ag/'><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" height="16" width="16" alt="sunny-finance"> Sunny</a>
       </li>
       </font>
     </td>
   </tr>
 <table>
 
-## Good tutorials for beginners
+## General Idea about blockchain
 - [Learning Path](https://github.com/protofire/blockchain-learning-path)
 - [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
 ## Tutorials for Solana blockchain devleopers
 - [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
+- [Solana Doc](https://docs.solana.com/)
+- [Solanium](https://solanium.io/)
+- [NFT](https://solanart.io/)
+## Solana framework
+- [SPL doc](https://spl.solana.com/)
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 - [Anchor Framework](https://github.com/project-serum/anchor)
-- [Raydium UI](https://github.com/raydium-io/raydium-ui)
-- [Raydium Contract Instructions](https://github.com/raydium-io/raydium-contract-instructions)
-- [Simple swap UI](https://github.com/solana-labs/oyster-swap)
+- [Tokio](https://tokio.rs/)
+## Basic examples
+- [Oyster Swap UI](https://github.com/solana-labs/oyster-swap)
 - [SPL Token Wallet](https://github.com/project-serum/spl-token-wallet)
-## Tutorials for Ethereum blockchain developers
-- [Remix(Ethererum IDE)](http://remix.ethereum.org/)
-- [CryptoZombies](https://cryptozombies.io/)
+- [Figment Learn](https://learn.figment.io/)
+- [Hello Chainlink Price Feeds on Solana](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
+- [Break Solana](https://github.com/solana-labs/break)
+- [R/W JSON format on the Solana contract](https://github.com/jamesbachini/Solana-JSON)
+- [Program examples written in Rust](https://github.com/solana-labs/solana-program-library/tree/master/examples/rust)
+- [Interface for creating and managing SPL Tokens](https://www.spl-token-ui.com/#/)
+
+## Video examples
+- [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
+- [Solana Programming: Connect to Wallet, Send Money, Query Transaction History](https://www.youtube.com/watch?v=wVPGJ_CZTAw)
+- [Build Dapps with Solana and Arweave](https://www.youtube.com/watch?v=Jz5v_u75xk8)
+
+## Advanced examples
+- [Raydium ](https://github.com/raydium-io/raydium-ui)
+- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
+- [A Vesting Contract for the Solana Blockchain](https://github.com/Bonfida/token-vesting)
+- [Staking](https://github.com/step-finance/step-staking) (Use `Anchor`)
+- [Permissioned Markets](https://github.com/project-serum/permissioned-markets-quickstart) (Use `Serum`)
+- [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
+- [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
+- [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
+- [Messaging App](https://github.com/kemargrant/soltalk)
+
+## Solana explorer
+- [Solsan](https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
+- [Solana Explorer](https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
+
+## `RPC` servers
+- [Project Serum](https://solana-api.projectserum.com (**recommended**))
+- [Figment-Solana](https://docs.figment.io/network-documentation/solana/rpc-and-rest-api)
+- [Solana](https://api.mainnet-beta.solana.com (**can be unstable**))
+- [GenesysGo](https://genesysgo.com/)
+- [RunNode](https://runnode.com/)
+- [Triton RPC Pool](https://rpcpool.com/)
+- [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
+- [Syndica](https://syndica.io/)
+
+## Cyber Security teams for audit
+
+1. [Halborn](https://halborn.com/)
+1. [Kudelski](https://kudelskisecurity.com/)
+1. Fairypool
 
 
 <div align="center">
