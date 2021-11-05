@@ -1,4 +1,4 @@
-# Top talents in blockchain
+# Top talent in Solana
 
 <table>
 <tr><td>
