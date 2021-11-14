@@ -186,8 +186,5 @@
     <a href="https://t.me/zhaohui" target="_blank">
      <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
     </a>
-    <a href="https://www.linkedin.com/in/zhaohui-li-1a2b12214" target="_blank">
-     <img src=" https://img.shields.io/badge/Linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="linkedin">
-    </a>
 
 </div>
