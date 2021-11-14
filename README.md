@@ -178,16 +178,16 @@
 
 <div align="center">
     <a href="mailto:softwareangel30@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
+     <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
     </a>
     <a href="https://join.skype.com/invite/UnRW1QAcIeCS" target="_blank">
-    <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
+     <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
     </a>
     <a href="https://t.me/zhaohui" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
+     <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
     </a>
     <a href="https://www.linkedin.com/in/zhaohui-li-1a2b12214" target="_blank">
-    <img src=" https://img.shields.io/badge/Linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
+     <img src=" https://img.shields.io/badge/Linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="linkedin">
     </a>
 
 </div>
