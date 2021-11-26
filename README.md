@@ -1,7 +1,14 @@
 # Top talent in Solana
 
-<table width="100%">
-<tr><td valign="top" width="100%">
+<table>
+<tr><td>
+<p align="center">  
+<a href = "https://github.com/IT-Prince?tab=repositories">
+<img src = 'https://github.com/IT-Prince/IT-Prince/blob/main/assets/banner.jpeg'>
+</a>
+</p>
+</td></tr>
+<tr><td valign="top" width="100%"'>
 <p align="center">  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" alt="CropperFinance" height="50" />  
 <br>
