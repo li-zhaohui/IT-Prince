@@ -10,42 +10,39 @@
 </td></tr>
 <tr><td valign="top" width="100%">
 <p align="center">  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" alt="Solana" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" alt="CropperFinance" height="50" />  
+<br>
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" alt="Solana" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" alt="BinanceSmartChain" height="50" />  
+<br>
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="BitCoin" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png" alt="BinanceSmartChain" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png" alt="Terra" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" alt="Cardano" height="50" />  
+<br>
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" alt="Raydium" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" alt="Serum" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" alt="StepFinance" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" alt="Saber" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" alt="Saber" height="50" />  
 <br>
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10570.png" alt="BinanceSmartChain" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" alt="Tron" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png" alt="Cardano" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" alt="Defi" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" alt="Dapp" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png" alt="NFT" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png" alt="Uniswap" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9272.png" alt="MunchToken" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png" alt="BinanceCoin" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png" alt="Pancakeswap" height="50" />  
 <br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+
  
 </p>
 </td></tr></table>
@@ -74,9 +71,9 @@
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" height="16" width="16" alt="BTC"> 
           Binance Smart Chain
         </a><br>
-        <a href = 'https://coinmarketcap.com/currencies/tron/'>
-          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" height="16" width="16" alt="TRON"> 
-          Tron
+        <a href = 'https://coinmarketcap.com/currencies/terra/'>
+          <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png" height="16" width="16" alt="Terra"> 
+          Terra
         </a><br>
       </font>
     </td> 
