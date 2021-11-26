@@ -1,6 +1,6 @@
 # Top talent in Solana
 
-<table>
+<table width="100%">
 <tr><td valign="top" width="100%">
 <p align="center">  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" alt="CropperFinance" height="50" />  
