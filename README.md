@@ -39,10 +39,10 @@
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" alt="Mercurial" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png" alt="Orca" height="50" />
 <br>
-<img  style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7633.png" height="50" alt="AllBridge">
+<img  style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/15181.png" height="50" alt="Monox">
+<img  style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7633.png" height="50" alt="Wormhole">
 <img  style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/12212.png" height="50" alt="AllBridge">
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png" alt="Uniswap" height="50" />  
-<br>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
 <br/>
@@ -60,49 +60,16 @@
 </td></tr></table>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=it-prince&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bpceee&column=7&theme=onedark"/>
 </p>
 
 ## [General Idea about blockchain](https://github.com/yjjnls/awesome-blockchain)
-## Tutorials for Solana blockchain devleopers
+## Tutorials for Solana blockchain devleopers(Rust)
 - [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Solana Doc](https://docs.solana.com/)
-- [Solanium](https://solanium.io/)
-- [NFT](https://solanart.io/)
-## Solana framework
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 - [Anchor Framework](https://github.com/project-serum/anchor)
 - [Tokio](https://tokio.rs/)
-
-## Video examples
-- [Building SmartContracts With #Solana and #Rust](https://www.youtube.com/watch?v=gA7hFdq2h9Q)
-- [Solana Programming: Connect to Wallet, Send Money, Query Transaction History](https://www.youtube.com/watch?v=wVPGJ_CZTAw)
-- [Build Dapps with Solana and Arweave](https://www.youtube.com/watch?v=Jz5v_u75xk8)
-
-## Advanced examples
-- [Raydium ](https://github.com/raydium-io/raydium-ui)
-- [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/): Building the escrow program
-- [A Vesting Contract for the Solana Blockchain](https://github.com/Bonfida/token-vesting)
-- [Staking](https://github.com/step-finance/step-staking) (Use `Anchor`)
-- [Permissioned Markets](https://github.com/project-serum/permissioned-markets-quickstart) (Use `Serum`)
-- [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
-- [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
-- [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
-- [Messaging App](https://github.com/kemargrant/soltalk)
-
-## Solana explorer
-- [Solsan](https://solscan.io/token/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
-- [Solana Explorer](https://explorer.solana.com/address/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE)
-
-## `RPC` servers
-- [Project Serum](https://solana-api.projectserum.com (**recommended**))
-- [Figment-Solana](https://docs.figment.io/network-documentation/solana/rpc-and-rest-api)
-- [Solana](https://api.mainnet-beta.solana.com (**can be unstable**))
-- [GenesysGo](https://genesysgo.com/)
-- [RunNode](https://runnode.com/)
-- [Triton RPC Pool](https://rpcpool.com/)
-- [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
-- [Syndica](https://syndica.io/)
 
 ## Cyber Security teams for audit
 
