@@ -24,11 +24,8 @@
 <img src = 'https://github.com/IT-Prince/IT-Prince/blob/main/assets/banner.jpeg'>
 </a>
 </p>
-</td>
-<td>
-<img align="right" alt="GIF" src="https://github.com/IT-Prince/IT-Prince/blob/main/assets/code.gif?raw=true" height="100" />
 </td></tr>
-<tr><td valign="top" width="100%"'  colspan=2>
+<tr><td valign="top" width="100%"'>
 <p align="center">  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" alt="CropperFinance" height="50" />  
 <br>
@@ -64,6 +61,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bpceee&column=7&theme=onedark"/>
 </p>
+<img align="right" alt="GIF" src="https://github.com/IT-Prince/IT-Prince/blob/main/assets/code.gif?raw=true" width="500" />
 
 ## [Introduction to blockchain](https://github.com/yjjnls/awesome-blockchain)
 ## Tutorials for Solana(Rust)
