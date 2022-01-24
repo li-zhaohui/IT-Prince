@@ -61,7 +61,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bpceee&column=7&theme=onedark"/>
 </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+<img align="right" alt="GIF" src="https://github.com/IT-Prince/IT-Prince/blob/master/code.gif?raw=true" width="500" />
 
 ## [Introduction to blockchain](https://github.com/yjjnls/awesome-blockchain)
 ## Tutorials for Solana(Rust)
