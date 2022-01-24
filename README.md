@@ -18,14 +18,17 @@
   </a>
 </div>
 <table>
-<tr><td colspan=2>
+<tr><td>
 <p align="center">  
 <a href = "https://github.com/IT-Prince?tab=repositories">
 <img src = 'https://github.com/IT-Prince/IT-Prince/blob/main/assets/banner.jpeg'>
 </a>
 </p>
+</td>
+<td>
+<img align="right" alt="GIF" src="https://github.com/IT-Prince/IT-Prince/blob/main/assets/code.gif?raw=true" height="100" />
 </td></tr>
-<tr><td valign="top" width="100%"' colspan=2>
+<tr><td valign="top" width="100%"'  colspan=2>
 <p align="center">  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" alt="CropperFinance" height="50" />  
 <br>
@@ -56,8 +59,6 @@
 <br>
 
 </p>
-</td><td>
-<img align="right" alt="GIF" src="https://github.com/IT-Prince/IT-Prince/blob/main/assets/code.gif?raw=true" width="300" />
 </td></tr></table>
 
 <p align="center">
