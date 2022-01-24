@@ -63,16 +63,23 @@
     <img src="https://github-profile-trophy.vercel.app/?username=bpceee&column=7&theme=onedark"/>
 </p>
 
-## [General Idea about blockchain](https://github.com/yjjnls/awesome-blockchain)
-## Tutorials for Solana blockchain devleopers(Rust)
+## [Get an idea about blockchain](https://github.com/yjjnls/awesome-blockchain)
+## Tutorials for Solana(Rust)
+- [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 - [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
 - [Solana Doc](https://docs.solana.com/)
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 - [Anchor Framework](https://github.com/project-serum/anchor)
 - [Tokio](https://tokio.rs/)
 
+
+## Tutorials for Ethereum(Solidity)
+- [Crypto Zombies](https://github.com/ethereum-cph/Cryptozombies)
+- [Simple Tutorial](https://github.com/MarkCWirt/ethereum-tutorial)
+- [Solang(Solidity VS Rust Convertor)](https://github.com/hyperledger-labs/solang/releases/tag/v0.1.9)
+
 ## Cyber Security teams for audit
 
 1. [Halborn](https://halborn.com/)
 1. [Kudelski](https://kudelskisecurity.com/)
-1. Fairypool
+1. [Fairypool](https://www.isleofskye.com/skye-guide/top-ten-skye-walks/fairy-pools)
