@@ -30,13 +30,12 @@
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11387.png" alt="CropperFinance" height="50" />  
 <br>
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/17418.png" alt="Atlas Dex Finance" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9528.png" alt="HawkSight" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" alt="Raydium" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9528.png" alt="HawkSight" height="50" />
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" alt="Mercurial" height="50" />
 <br/>
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" alt="Serum" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" alt="Saber" height="50" />  <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" alt="Serum" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" alt="StepFinance" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" alt="Saber" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" alt="Mercurial" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" alt="Raydium" height="50" />  
 <img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png" alt="Orca" height="50" />
 <br>
 <img  style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/15181.png" height="50" alt="Monox">
@@ -62,6 +61,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bpceee&column=7&theme=onedark"/>
 </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## [Get an idea about blockchain](https://github.com/yjjnls/awesome-blockchain)
 ## Tutorials for Solana(Rust)
@@ -83,3 +83,4 @@
 1. [Halborn](https://halborn.com/)
 1. [Kudelski](https://kudelskisecurity.com/)
 1. [Fairypool](https://www.isleofskye.com/skye-guide/top-ten-skye-walks/fairy-pools)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=it-prince&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
