@@ -63,17 +63,14 @@
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
-## [Get an idea about blockchain](https://github.com/yjjnls/awesome-blockchain)
+## [Introduction to blockchain](https://github.com/yjjnls/awesome-blockchain)
 ## Tutorials for Solana(Rust)
 - [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
-- [Solana Tool Suite](https://docs.solana.com/cli/install-solana-cli-tools)
-- [Solana Doc](https://docs.solana.com/)
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library)
 - [Anchor Framework](https://github.com/project-serum/anchor)
-- [Tokio](https://tokio.rs/)
-
 
 ## Tutorials for Ethereum(Solidity)
+- [Ethereum White Paper](https://ethereum.org/en/whitepaper/)
 - [Crypto Zombies](https://github.com/ethereum-cph/Cryptozombies)
 - [Simple Tutorial](https://github.com/MarkCWirt/ethereum-tutorial)
 - [Solang(Solidity VS Rust Convertor)](https://github.com/hyperledger-labs/solang/releases/tag/v0.1.9)
