@@ -2,4 +2,4 @@
 - 👀 I’m interested in building defi projects with Rust Language
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on anything defi!
-- 📫 How to reach me zhaohuili0210@gmail.com
+- 📫 How to reach me https://t.me/zhaohuili0210
